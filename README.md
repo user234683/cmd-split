@@ -1,5 +1,6 @@
 # cmd-split
 
+![screenshot](https://user-images.githubusercontent.com/28744867/46270328-d853b500-c4fb-11e8-8273-821fb1f70656.png)
 Highly experimental rethinking of terminal emulators, written in C
 
 ## Features
