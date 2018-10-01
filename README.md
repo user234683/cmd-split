@@ -24,3 +24,6 @@ Compiling is extremely simple. Simply do `gcc cmd-split.c`, `tcc cmd-split.c`, o
 
 ## Usage
 Just download the zip and run `cmd-split.exe`. If you have python installed you can issue `python repl.py` to use python interactively.
+
+## License
+Licensed under the GNU GPLv3. See LICENSE for license text.
