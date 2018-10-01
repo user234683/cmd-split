@@ -48,13 +48,6 @@ Dimensions OutputBoxDimensions()
 }
 
 
-
-int InfoBox(HWND hwnd, TCHAR *text, TCHAR *title)
-{
-    MessageBox(hwnd, text, title, MB_OK | MB_ICONERROR);
-    return 0;
-}
-
 unsigned short number_of_columns;
 
 unsigned short number_of_lines_to_draw; // keep this global so we can see if it changes in WM_SIZE event
